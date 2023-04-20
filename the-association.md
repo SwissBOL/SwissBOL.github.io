@@ -12,20 +12,21 @@ The association SwissBOL aims at the central coordination of activities related 
 
 ## Organization
 
-La structure interne de l’association SwissBOL consiste de trois organes: l’Assemblée Générale qui se compose de l’ensemble des membres de l’association, le Comité qui est constitué de cinq membres élus pour une durée de deux ans reconductible et l’Organe de vérification des comptes composé de deux membres désignés par l’Assemblée Générale.
+The SwissBOL association consists of three bodies: the General Assembly, which is composed of all the members of the association, the Committee, which is composed of nine members elected for a renewable period of four years, and the Auditing Body, which is composed of two members appointed by the General Assembly.
 
-L’association SwissBOL compte actuellement 41 membres, parmi lesquels des représentants des centres de données, des institutions académiques nationales, des musées d’histoire naturelle et des jardins botaniques suisses.
+The SwissBOL association currently has 58 members, including representatives of data centres, national academic institutions, natural history museums and Swiss botanical gardens.
 
 Le Comité
 
 - Alice Cibois (Muséum d'Histoire naturelle de Genève)
 - Andrin Gross (Institut fédéral WSL)
 - Edward Mitchell (Université de Neuchâtel)
+- Glenn Litsios (info fauna, Neuchâtel)
 - Jan Pawlowski (Université de Genève)
 - Mathieu Perret - Président (Conservatoire et jardin botaniques de Genève)
-- Michel Sartori (Musée de Zoologie de Lausanne)
-- Yves Gonseth (info fauna)
-- Sofia Wyler (info fauna)
+- Nadir Alvarez (Muséum cantonal des sciences naturelles, Geneva)
+- Roman Alther - Secretary (Universität Zürich & Eawag)
+- Thomas Kiebacher - Treasurer (Naturkundemuseum Stuttgart)
 
 ## Documents
 
@@ -35,12 +36,12 @@ Status
 
 Reports
 
-- Report 2012-2014 (PDF)
-- Report 2015 (PDF)
-- Report 2016-2017 (PDF)
-- Report 2018 (PDF)
-- Report 2019 (PDF)
 - Report 2020 (PDF)
+- Report 2019 (PDF)
+- Report 2018 (PDF)
+- Report 2016-2017 (PDF)
+- Report 2015 (PDF)
+- Report 2012-2014 (PDF)
 
 General Assemblies
 
