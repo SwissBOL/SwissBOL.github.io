@@ -3,23 +3,19 @@ layout: page
 title: Contact
 ---
 
-Si vous souhaitez plus d'informations sur SwissBOL, avez une collection de spécimens qui peuvent servir comme la base pour un projet SwissBOL, avez des idées pour un nouveau projet, êtes intéressés à servir comme un expert taxonomique pour un groupe d’organismes particulier, avez des questions concernant les procédures au laboratoire, ou si vous avez des échantillons d'ADN que vous souhaitez stocker dans notre banque d’ADN, contactez:
+If you would like more information about SwissBOL, have a collection of specimens that can serve as the basis for a SwissBOL project, have ideas for a new project, are interested in serving as a taxonomic expert for a particular group of organisms, have questions about laboratory procedures, or if you have DNA samples that you would like to store in our DNA bank, contact us:
 
 
 SwissBOL
 
-Dr. Sofia Wyler​
+Dr. Mathieu Peret​
 
-info fauna​
-
-Avenue de Bellevaux 51
-
-CH-2000 Neuchâtel
-
+Conservatory and Botanical Garden
+& Department of Plant Sciences
+Chemin de l'Impératrice 1
+CH - 1292 Chambésy
 Switzerland
 
-phone: +41 78 667 63 34
+Phone: +41 22 418 51 95
 
-Email: sofia.wyler@unine.ch
-
-(présence lundi, mardi et vendredi)
+Email: mathieu.Perret@unige.ch
