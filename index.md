@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# The Swiss Barcode of Life
-
 SwissBOL is a project initiated by the Federal Office for the Environment for the centralization and dissemination of genetic data on biodiversity hosted in Switzerland.​
 
   ![home](media/Accueil_72dpi.png)

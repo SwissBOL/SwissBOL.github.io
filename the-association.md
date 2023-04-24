@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Association
+title: Association
 ---
 
 

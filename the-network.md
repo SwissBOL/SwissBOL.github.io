@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Network
+title: Network
 ---
 
 Since 2012, SwissBOL has developed an active network of scientific partners specialized in each taxonomic group. According to its decentralized structure, SwissBOL brings together Swiss institutions involved in biodiversity research. Representatives of natural history museums, botanical gardens, universities, academic and research institutes, data centres, associations and specialist societies, as well as private scientific societies contribute to SwissBOL's mission.

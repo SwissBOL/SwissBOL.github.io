@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The initiative
+title: Initiative
 ---
 
 
