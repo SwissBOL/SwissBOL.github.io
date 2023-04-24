@@ -42,11 +42,11 @@ Through the linking of these four dimensions, SwissBOL guarantees Swiss quality 
 
 ### Recommendations
 
-- Récolte – Faune (PDF)
-- Récolte – Flore Vasculaire (PDF)
-- Lab protocol – DNA extraction (PDF)
-- Lab protocol - Sanger sequencing (PDF)
-- Recommandations genetic data (PDF)
+- [Récolte – Faune (PDF)](/files/recolte-faune.pdf)
+- [Récolte – Flore Vasculaire (PDF)](/files/recolte-flore.pdf)
+- [Lab protocol – DNA extraction (PDF)](/files/Labo_Extraction_en.pdf)
+- [Lab protocol - Sanger sequencing (PDF)](/files/Labo_Sanger_en.pdf)
+- [Recommandations genetic data (PDF)](/files/Data_Recommendation_en.pdf)
 
 ## History
 
@@ -147,8 +147,7 @@ Institutions involved
 
 - Natur-Museum Luzern
 
-###
-Eumenes (Hymenoptera: Vespidae: Eumeninae)
+### Eumenes (Hymenoptera: Vespidae: Eumeninae)
 
 Eight of the twelve European species of solitary wasps of the genus Eumenes Latreille 1802 (Hymenoptera: Vespidae: Eumeninae) are found in Switzerland. They are distinguished mainly by hair and color characteristics. These two families of characters, however, are very variable under the probable action of humidity and temperature. The objective of this project is to use genetic data to assess the diversity of Eumenes species and to determine their phylogenetic relationships. The expected results will refine our knowledge of the distribution of species of this genus in Switzerland and thus contribute to the assessment of their Red List status.
 
@@ -168,7 +167,7 @@ Institutions involved
 
 - Université de Neuchâtel
 
-## Plecoptera
+### Plecoptera
 
 DNA barcodes are a fundamental tool for monitoring the biodiversity of aquatic environments in Switzerland. It is particularly useful for the identification of specimens hitherto impossible to determine (the early larval stages, for example), the identification and description of the larvae of species of which only adults are known and the demonstration of systematic problems (eg identification of cryptic species). There are about 500 species of EPT (ephemera, plecoptera and trichoptera) in Switzerland, including 112 Plecoptera.
 

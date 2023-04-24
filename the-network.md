@@ -5,13 +5,13 @@ title: Network
 
 Since 2012, SwissBOL has developed an active network of scientific partners specialized in each taxonomic group. According to its decentralized structure, SwissBOL brings together Swiss institutions involved in biodiversity research. Representatives of natural history museums, botanical gardens, universities, academic and research institutes, data centres, associations and specialist societies, as well as private scientific societies contribute to SwissBOL's mission.
 
-National programs of Barcode Of Life
+National programs of Barcode Of Life:
 
-ABOL  - Austrian Barcode of Life
-BeBOL  - Belgian Network for DNA Barcoding
-FINBOL - Finnish Barcode of Life project
-GBOL - German Barcode of Life
-NORBOL - Norwegian Barcode of Life
+- ABOL  - Austrian Barcode of Life
+- BeBOL  - Belgian Network for DNA Barcoding
+- FINBOL - Finnish Barcode of Life project
+- GBOL - German Barcode of Life
+- NORBOL - Norwegian Barcode of Life
 
 ## Institutions involved
 
@@ -22,10 +22,8 @@ Cooperating Swiss institutions
 - OFEV
 - GBIF Swiss Node
 - Info Species
-- SCNAT – Plateforme Biologie
+- SCNAT - Plateforme Biologie
 - SSS - Swiss Systematics Society
-
-
 
 ## Scientists associated
 

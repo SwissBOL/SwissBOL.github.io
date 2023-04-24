@@ -3,15 +3,10 @@ layout: page
 title: Simply put
 ---
 
-
 Biodiversity encompasses all varieties of life, from the level of ecosystems (such as water, forest, soil) to the diversity of species and the diversity of genes within a species. Switzerland's topographical, geographical and climatic characteristics make Switzerland particularly rich in terms of species numbers and therefore particularly responsible for the documentation of species diversity and the protection of biodiversity.
 
-Imagining the determination of the species present at a specific place at a given moment in a fast and reliable way is now possible. The Swiss reference genetic catalogue is helping to establish a species identification tool and contributes to the global need to increase documentation of species.
+Imagining the determination of the species present at a specific place at a given moment in a fast and reliable way is now possible. The Swiss reference genetic catalog is helping to establish a species identification tool and contributes to the global need to increase documentation of species.
 
-### Documentation
-
-- [Barcoding life illustrated (PDF)](files/barcoding-life-illustrated.pdf)
-- [Ten reasons for barcoding (PDF)](files/barcoding-file-ten-reasons.pdf)
 
 ## The biodiversity in Switzerland
 
@@ -57,3 +52,8 @@ The genetic catalog of biodiversity is a valuable tool for identifying specimens
 - forensics. Criminal investigations often rely on the identification of insect larvae or fragments of plant material to determine when and where a crime was committed. In cases where such elements are difficult to identify by morphology, the use of DNA sequences is an effective alternative way to achieve this.
 - international trade regulation. Products made from illegally obtained materials (ivory, hides, horns, precious woods) are widely available on the international market. The source and origin of these materials are often difficult to identify, making it difficult to prevent the traffic of such products. DNA sequences, particularly DNA barcodes, can be used to determine the identity and source of such materials and thus contribute to the protection and control of the movement of these goods on the market.
 - food safety. The contents of products found in the supermarket may be impossible to determine, especially if the products have been processed in any way. DNA sequencing is a means of reliably identifying the contents of such products. Recent investigations using this technique revealed that certain products, including natural health products and frozen ready-made meals, contained ingredients that did not match their packaging labels. Other studies have uncovered extensive fraud in the seafood market, with cheaper fish being sold under the label of more expensive varieties to increase their retail value.
+
+## Documentation
+
+- [Barcoding life illustrated (PDF)](files/barcoding-life-illustrated.pdf)
+- [Ten reasons for barcoding (PDF)](files/barcoding-file-ten-reasons.pdf)

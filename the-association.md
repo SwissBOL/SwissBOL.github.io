@@ -32,23 +32,23 @@ Le Comité
 
 Status
 
-- Status (PDF)
+- [Status (PDF)](files/Statuts_31052021.pdf)
 
 Reports
 
-- Report 2020 (PDF)
-- Report 2019 (PDF)
-- Report 2018 (PDF)
-- Report 2016-2017 (PDF)
-- Report 2015 (PDF)
-- Report 2012-2014 (PDF)
+- [Report 2020 (PDF)](files/Rapport_Annuel_2020.pdf)
+- [Report 2019 (PDF)](files/Rapport_Annuel_2019.pdf)
+- [Report 2018 (PDF)](files/Rapport d'activité 2018.pdf)
+- [Report 2016-2017 (PDF)](files/Rapport d'activité 2016_2017.pdf)
+- [Report 2015 (PDF)](files/Rapport d'activité 2015.pdf)
+- [Report 2012-2014 (PDF)](files/Final Report 2012-2014.pdf)
 
 General Assemblies
 
-- General Assemblies 2021 (PDF)
-- General Assemblies 2020 (PDF)
-- General Assemblies 2019 (PDF)
-- General Assemblies 2018 (PDF)
-- General Assemblies 2017 (PDF)
-- General Assemblies 2016 (PDF)
-- General Assemblies 2015 (PDF)
+- [General Assemblies 2021 (PDF)](files/Assemblée Générale 2021.pdf)
+- [General Assemblies 2020 (PDF)](files/Assemblée_Générale_2020.pdf)
+- [General Assemblies 2019 (PDF)](files/Assemblée Générale 2019.pdf)
+- [General Assemblies 2018 (PDF)](files/Assemblée Générale 2018.pdf)
+- [General Assemblies 2017 (PDF)](files/PV AG 01.11.2017.pdf)
+- [General Assemblies 2016 (PDF)](files/PV AG 19.05.2016.pdf)
+- [General Assemblies 2015 (PDF)](files/PV AG 16.06.2015.pdf)
