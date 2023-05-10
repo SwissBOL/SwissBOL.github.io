@@ -18,9 +18,9 @@ Increase knowledge of genetic diversity in Switzerland and participate in better
 
 ### Platforms and Data bases
 
-- GBIF Swiss Node
-- BOLD Systems
-- GenBank
+- [GBIF Swiss Node](https://www.gbif.org/country/CH/summary)
+- [BOLD Systems](http://www.boldsystems.org/)
+- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
 
 ## Objectives
 
@@ -50,8 +50,8 @@ Through the linking of these four dimensions, SwissBOL guarantees Swiss quality 
 
 ## History
 
-- 2018 — The merger between SwissBOL and GBIF.ch is initiated with regard to data centralization and management and coordination activities.
-- 2016 — SwissBOL is partnering with GBIF.ch for the development of the concepts for genetic data and the establishment of the reference database for Switzerland.
+- 2018 — The merger between SwissBOL and [GBIF.ch](https://gbif.ch/gbif-portal/) is initiated with regard to data centralization and management and coordination activities.
+- 2016 — SwissBOL is partnering with [GBIF.ch](https://gbif.ch/gbif-portal/) for the development of the concepts for genetic data and the establishment of the reference database for Switzerland.
 - 2015 — The SwissBOL Association is created from the network of partners developed with the support of the Federal Office for the Environment (FOEN).
 - 2012 — The FOEN funds the Swiss biodiversity inventory initiative for 4 years.
 - 2011 — First national networking meeting is held at the University of Geneva, organized by Jan Pawlowski.

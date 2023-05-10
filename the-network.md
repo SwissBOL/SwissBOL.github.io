@@ -7,11 +7,11 @@ Since 2012, SwissBOL has developed an active network of scientific partners spec
 
 National programs of Barcode Of Life:
 
-- ABOL  - Austrian Barcode of Life
-- BeBOL  - Belgian Network for DNA Barcoding
-- FINBOL - Finnish Barcode of Life project
-- GBOL - German Barcode of Life
-- NORBOL - Norwegian Barcode of Life
+- [ABOL](https://www.abol.ac.at/en)  - Austrian Barcode of Life
+- [BeBOL](http://bebol.myspecies.info/)  - Belgian Network for DNA Barcoding
+- [FINBOL](http://www.finbol.org/eng/ENG_finbol.html) - Finnish Barcode of Life project
+- [GBOL](https://www.bolgermany.de/) - German Barcode of Life
+- [NORBOL](http://www.norbol.org/) - Norwegian Barcode of Life
 
 ## Institutions involved
 
@@ -19,11 +19,11 @@ National programs of Barcode Of Life:
 
 Cooperating Swiss institutions
 
-- OFEV
-- GBIF Swiss Node
-- Info Species
-- SCNAT - Plateforme Biologie
-- SSS - Swiss Systematics Society
+- [OFEV](https://www.bafu.admin.ch/bafu/fr/home.html)
+- [GBIF Swiss Node](http://www.gbif.ch/)
+- [Info Species](https://www.infospecies.ch/)
+- [SCNAT - Plateforme Biologie](https://sciencesnaturelles.ch/organisations/bio)
+- [SSS - Swiss Systematics Society](https://sciencesnaturelles.ch/organisations/swiss-systematics)
 
 ## Scientists associated
 
